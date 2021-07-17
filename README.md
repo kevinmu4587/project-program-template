@@ -11,7 +11,7 @@ Mentor:
 - Will Campbell
 
 Mentees:
-- Angel 
+- Angel Quintana
 - Katherine Mu
 - Kevin Mu
 - Nicholaus Suprapto
@@ -22,3 +22,8 @@ Maze Maker is an online game about designing and playing your own mazes! You can
 Maze Maker was built using HTML, JavaScript, PixiJS and ExpressJS. 
 
 ![image](https://user-images.githubusercontent.com/67803455/126022399-6924d8e6-e209-4a6c-82d5-3a98a1db2cd4.png)
+Help the stickman get to the finish!
+
+
+![image](https://user-images.githubusercontent.com/67803455/126022442-bef2224d-0a18-4aeb-87db-4b18cc93c8d1.png)
+Highlight the solution to the current maze if you are stuck!
